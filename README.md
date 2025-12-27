@@ -2,7 +2,9 @@
 
 **Local MQTT Bridge for Marstek Venus A Battery Systems**
 
-Real-time battery monitoring in home network with optional secure remote access.
+Monitor your **Marstek Venus A** battery system in real-time using MQTT. This bridge connects to your Venus A energy storage system via the local UDP API and publishes battery data (SOC, temperature, power, energy statistics) to an MQTT broker running on a Raspberry Pi.
+
+Perfect for **home automation**, **Home Assistant integration**, **solar energy monitoring**, and **smart home** setups. Works with any MQTT client on Android, iOS, web, or command-line tools.
 
 ---
 

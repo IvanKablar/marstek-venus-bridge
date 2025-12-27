@@ -351,6 +351,16 @@ Ivan Kablar
 
 ---
 
+## 💖 Support
+
+This project is developed and maintained in my free time. If it helps you monitor your battery system and you'd like to support continued development:
+
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/ivankablar)
+
+Your support helps with ongoing maintenance, new features, and hardware testing.
+
+---
+
 ## 🙏 Acknowledgments
 
 - [Eclipse Mosquitto](https://mosquitto.org/) - MQTT broker
